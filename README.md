@@ -11,7 +11,7 @@ This repository contains the source code for my portfolio website showcasing my 
 
 - Home section with introduction
 - About Me
-- Skills showcase
+- Skills  showcase
 - Internship Experience
 - Projects with descriptions
 - Hackathons and Certifications (with logos and links)
